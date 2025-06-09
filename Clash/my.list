@@ -1,0 +1,57 @@
+# my personal rules for Clash
+IP-CIDR,8.8.8.8/24,🚀 节点选择
+IP-CIDR,1.1.1.1/24,🚀 节点选择
+IP-CIDR,208.67.220.220/24,🚀 节点选择
+DOMAIN-SUFFIX,rabt.top
+DOMAIN-SUFFIX,660990.xyz
+DOMAIN-SUFFIX,129888.xyz
+DOMAIN-SUFFIX,qnap.com
+DOMAIN-SUFFIX,icc2022.com
+DOMAIN-SUFFIX,icc2022.de
+DOMAIN-SUFFIX,1ptba.com
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,cinefiles.info
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,pthome.org
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,hdarea.club
+DOMAIN-SUFFIX,soulvoice.club
+DOMAIN-SUFFIX,hdzone.me
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,hares.top
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,ptchina.org
+DOMAIN-SUFFIX,hdmayi.com
+DOMAIN-SUFFIX,beitai.pt
+DOMAIN-SUFFIX,haidan.video
+DOMAIN-SUFFIX,freetv.top
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-KEYWORD,sooplive.co
+DOMAIN-SUFFIX,term.wtf
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,v1.mk
+DOMAIN-SUFFIX,tailscale.com
+IP-CIDR,47.79.88.35/32,no-resolve
+IP-CIDR,138.2.54.229/32,no-resolve
+IP-CIDR,23.26.125.195/32,no-resolve
+# DDNS
+DOMAIN-KEYWORD,synology
+DOMAIN-KEYWORD,quickconnect
+DOMAIN-SUFFIX,checkip.dyndns.org
+DOMAIN-SUFFIX,checkipv6.dyndns.org
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,ifconfig.co
+DOMAIN-SUFFIX,api.myip.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip6.seeip.org
+DOMAIN-SUFFIX,members.3322.org
