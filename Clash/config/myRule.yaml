@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-KEYWORD,sooplive.co
   - DOMAIN-SUFFIX,term.wtf
+  - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,speed.cloudflare.com
   - DOMAIN-SUFFIX,v1.mk
   - IP-CIDR,47.79.88.35/32,no-resolve
