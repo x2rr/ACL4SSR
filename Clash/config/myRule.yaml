@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,660990.xyz
   - DOMAIN-SUFFIX,129888.xyz
   - DOMAIN-SUFFIX,qnap.com
+  - DOMAIN-KEYWORD,myqnapcloud
   - DOMAIN-SUFFIX,icc2022.com
   - DOMAIN-SUFFIX,icc2022.de
   - DOMAIN-SUFFIX,1ptba.com
