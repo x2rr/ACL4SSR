@@ -43,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,speed.cloudflare.com
   - DOMAIN-SUFFIX,v1.mk
+  - DOMAIN-SUFFIX,runanytime.hxi.me
   - IP-CIDR,47.79.88.35/32,no-resolve
   - IP-CIDR,138.2.54.229/32,no-resolve
   - IP-CIDR,23.26.125.195/32,no-resolve
