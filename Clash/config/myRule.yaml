@@ -49,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,emby.dnscf.dpdns.org
   - DOMAIN-SUFFIX,okemby.org
   - DOMAIN-SUFFIX,emos.best
+  - DOMAIN-SUFFIX,emos.prlo.de
   - DOMAIN-SUFFIX,147269358.xyz
   - IP-CIDR,47.79.88.35/32,no-resolve
   - IP-CIDR,138.2.54.229/32,no-resolve
