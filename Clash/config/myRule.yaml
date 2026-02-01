@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.cn
   - DOMAIN-SUFFIX,emosstore.sbs
   - DOMAIN-SUFFIX,147269358.xyz
+  - DOMAIN-SUFFIX,137127.xyz
   - IP-CIDR,47.79.88.35/32,no-resolve
   - IP-CIDR,138.2.54.229/32,no-resolve
   - IP-CIDR,23.26.125.195/32,no-resolve
